@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá,me chamo **Nicolas Sabin**
+Estou estudando no Primeiro Centenário (que é uma escola civico militar),
+temho 17 anos, 1,82 de altura e o meu sonho é seguir a carreira militar principalmente o corpo de fuzileiros navais (CFN),
+minhas comidas favoritas são: lasanha,pizza e estrogonof.
 
 <!--
 **NK4279/NK4279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
